@@ -1,0 +1,12 @@
+{
+    "onEntry": "Upon entering:",
+    "step1": {
+        "title": "Flip all the switches up on the panel",
+        "text": "They should be in this exact position:"
+    },
+    "step2": {
+        "title": "Press the “Energy Bill saver” switch to turn on the electricity",
+        "text": "This energy-saving system will turn off every time the entrance door is opened and closed.",
+        "warning": "Each time you enter the apartment, you will need to press this switch again:"
+    }
+}
