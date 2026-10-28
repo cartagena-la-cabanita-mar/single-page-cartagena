@@ -1,0 +1,12 @@
+{
+    "airbnb": {
+        "title": "Comparte nuestro Airbnb",
+        "text": "Si quieres volver a visitarnos o recomendarnos con tus amigos y tu familia, comparte este enlace.",
+        "button": "Ver nuestro Airbnb"
+    },
+    "instagram": {
+        "title": "Comparte tu experiencia",
+        "text": "Si quieres compartir tus fotos y tus experiencias, puedes hacerlo en nuestro Instagram o etiquetarnos. ¡Nos ayuda muchísimo!",
+        "button": "Abrir Instagram"
+    }
+}
