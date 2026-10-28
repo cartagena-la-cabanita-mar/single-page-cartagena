@@ -1,0 +1,16 @@
+{
+    "floor": "4th floor",
+    "closed": "Common areas are closed every Tuesday for cleaning and maintenance.",
+    "maintenance": "Maintenance",
+    "pool": {
+        "title": "Swimming pools",
+        "hours": "There are 2 swimming pools. Opening hours: 8am to 8pm. The use of a towel is mandatory on the sunbeds.",
+        "bags": "It is not allowed to enter the swimming pool area with luggage and backpacks (you can use the building’s luggage storage service if needed)."
+    },
+    "jacuzzi": {
+        "title": "Jacuzzi",
+        "text": "To use the jacuzzi, you must book your turn by scanning the QR code available on the 4th floor."
+    },
+    "sauna": "Sauna",
+    "turkish": "Hammam"
+}
