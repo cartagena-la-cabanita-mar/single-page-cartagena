@@ -249,3 +249,64 @@
     scrollbar-width: thin;
     scrollbar-color: var(--color-sea-400) transparent;
 }
+
+/* Paper boat cursors: white sail and lemon hull by default, lemon sail and cobalt hull over clickable things. */
+@media (pointer: fine) {
+    html {
+        cursor:
+            url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Cpath d='M16 3 26 19H6Z' fill='%23ffffff' stroke='%231558b8' stroke-width='1.6' stroke-linejoin='round'/%3E%3Cpath d='M16 3v16' stroke='%231558b8' stroke-width='1.2'/%3E%3Cpath d='M3 19h26l-5 8H8Z' fill='%23ffc820' stroke='%231558b8' stroke-width='1.6' stroke-linejoin='round'/%3E%3C/svg%3E")
+                16 3,
+            auto;
+    }
+
+    a,
+    button,
+    summary,
+    label,
+    select,
+    [role="button"],
+    [role="tab"] {
+        cursor:
+            url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Cpath d='M16 3 26 19H6Z' fill='%23ffc820' stroke='%231558b8' stroke-width='1.6' stroke-linejoin='round'/%3E%3Cpath d='M16 3v16' stroke='%231558b8' stroke-width='1.2'/%3E%3Cpath d='M3 19h26l-5 8H8Z' fill='%231558b8' stroke='%231558b8' stroke-width='1.6' stroke-linejoin='round'/%3E%3C/svg%3E")
+                16 3,
+            pointer;
+    }
+
+    input,
+    textarea {
+        cursor: text;
+    }
+
+    video {
+        cursor: auto;
+    }
+}
+
+@keyframes paddle {
+    0%,
+    100% {
+        transform: translateY(0) rotate(-4deg);
+    }
+    50% {
+        transform: translateY(-2px) rotate(4deg);
+    }
+}
+
+@utility animate-paddle {
+    animation: paddle 2.2s ease-in-out infinite;
+}
+
+/* While the animated boat is mounted it replaces the system cursor, except where people type or use video controls. */
+html.boat-cursor,
+html.boat-cursor * {
+    cursor: none !important;
+}
+
+html.boat-cursor input,
+html.boat-cursor textarea {
+    cursor: text !important;
+}
+
+html.boat-cursor video {
+    cursor: auto !important;
+}
