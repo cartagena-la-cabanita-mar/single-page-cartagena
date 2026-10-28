@@ -1,0 +1,81 @@
+{
+    "lead": "Un parcours à travers les lieux à ne pas manquer, des remparts aux collines et aux îles.",
+    "seeIslands": "Voir les journées sur les îles",
+    "places": {
+        "walledCity": {
+            "title": "Ville fortifiée",
+            "teaser": "Patrimoine mondial de l’UNESCO, avec ses rues coloniales et une architecture très bien conservée.",
+            "text": "Il s’agit du cœur de la ville historique, la ville fortifiée est classée au patrimoine mondial de l’UNESCO. Promenez-vous dans ses rues coloniales pour admirer une architecture incroyablement bien conservée."
+        },
+        "santoDomingo": {
+            "title": "Plaza Santo Domingo",
+            "teaser": "La plus ancienne église de Cartagena et la célèbre Gorda Gertrudis de Botero.",
+            "text": "La place Santo Domingo est l’une des plus célèbres de la ville. Vous y trouverez l’église la plus ancienne de Cartagena, où il est possible de visiter le couvent. L’intérieur, aux couleurs blanches et ocres, s’anime sous la lumière.\n\nSur la place, la célèbre sculpture de Fernando Botero, la « Gorda Gertrudis » : la légende raconte que toucher ses fesses porte chance, toucher sa poitrine promet une longue vie amoureuse à votre couple, ou vous assure de revenir un jour à Cartagena. Le musée de l’église abrite la plus importante collection d’art religieux de Cartagena, avec des œuvres africaines et afro-caribéennes uniques."
+        },
+        "plazaBolivar": {
+            "title": "La plaza Bolívar",
+            "teaser": "Ancienne place de l’Inquisition ; au coucher du soleil, on y danse le Mapalé.",
+            "text": "Anciennement place de l’Inquisition, où l’Église catholique pratiquait les exécutions et les autodafés, elle fut renommée à la fin du XIXe siècle en l’honneur de Simón Bolívar. On y trouve de nombreux monuments importants. Au coucher du soleil, les danseurs de Mapalé, danse traditionnelle afro-colombienne, viennent y faire le spectacle : un incontournable !\n\nÀ visiter : le Palais de l’Inquisition, aujourd’hui Musée Historique de Cartagena.\n\nSur la Plaza Bolívar, visitez aussi le Musée de l’Or Zenú, petit musée dans une belle maison coloniale, présentant une collection d’artisanat et d’objets en or de la culture précolombienne Zenú."
+        },
+        "sanPedroClaver": {
+            "title": "La plaza de San Pedro Claver",
+            "teaser": "Sculptures d’Edgardo Carmona et statue de San Pedro Claver.",
+            "text": "Vous y trouverez d’étonnantes sculptures contemporaines de l’artiste Edgardo Carmona, représentant les métiers traditionnels et des scènes de vie de la Caraïbe colombienne.\n\nOn y voit également la statue du prêtre San Pedro Claver parlant à un esclave, symbole de son engagement pour la libération des esclaves africains."
+        },
+        "clockTower": {
+            "title": "Torre del Reloj",
+            "teaser": "Le monument le plus photographié, ancienne porte d’entrée de la ville fortifiée.",
+            "text": "Symbole de Cartagena et l’un des monuments les plus photographiés de la ville. Historiquement, il s’agissait de la seule entrée possible dans la ville fortifiée.\n\nLa Tour de l’Horloge mène à la Plaza de los Coches, anciennement place des esclaves où se tenait le marché. Cartagena était considérée comme le plus grand port négrier du continent sud-américain.\n\nAujourd’hui, on y trouve le Portal de los Dulces, avec de nombreux vendeurs de confiseries traditionnelles."
+        },
+        "cathedral": {
+            "title": "Cathédrale de Cartagena",
+            "teaser": "Une coupole d’un jaune éclatant et un intérieur blanc, simple et élégant.",
+            "text": "La Cathédrale Santa Catalina, d’un jaune éclatant, est un autre monument emblématique. Sa coupole colorée se contemple sous différents angles selon la rue où l’on se trouve.\n\nL’intérieur est simple mais élégant, avec ses colonnes blanches et son plafond en bois."
+        },
+        "herediaTheater": {
+            "title": "Théâtre Heredia de Cartagena",
+            "teaser": "Un théâtre de style italien de 1911, aux balcons sculptés comme de la dentelle.",
+            "text": "Le Théâtre Heredia surprend par sa beauté, sa couleur pastel et son lettrage ancien. Construit en 1911 pour commémorer l’indépendance de Cartagena, ce théâtre de style italien est considéré comme l’un des plus beaux de Colombie. Décoration intérieure sublime, balcons sculptés, escaliers en marbre. Visites possibles en semaine, ou lors d’un concert, notamment pendant le Festival de Musique Classique de Cartagena en décembre."
+        },
+        "sunset": {
+            "title": "Admirer le coucher de soleil depuis les remparts",
+            "teaser": "Un verre au Baluarte de la Gente pendant que le ciel s’embrase.",
+            "text": "Promenez-vous sur les imposants remparts et prenez un verre au Baluarte de la Gente. C’est un incontournable : lorsque le ciel s’embrase, les toits de Cartagena s’illuminent, l’ambiance est spectaculaire et le moment inoubliable."
+        },
+        "bovedas": {
+            "title": "Les Bóvedas de Santa Clara (Voûtes)",
+            "teaser": "D’anciens entrepôts de munitions, aujourd’hui remplis d’artisanat.",
+            "text": "Anciens entrepôts de munitions et cellules de prison, aujourd’hui transformés en boutiques d’artisanat, d’antiquités et d’objets typiques de la région."
+        },
+        "indiaCatalina": {
+            "title": "Monument à l’Indienne Catalina",
+            "teaser": "Hommage à l’interprète de la conquête ; un endroit idéal pour les photos.",
+            "text": "L’un des symboles les plus représentatifs de la ville. Cette sculpture rend hommage à une femme indigène qui joua un rôle clé lors de la conquête espagnole, servant d’interprète entre les conquistadors et les communautés natives.\n\nSituée sur un rond-point près du centre historique, la statue se distingue par son élégance et sa sérénité. C’est un endroit idéal pour prendre des photos et en apprendre un peu plus sur l’histoire multiculturelle de la ville."
+        },
+        "callejonEstribos": {
+            "title": "Callejón de los Estribos",
+            "teaser": "L’une des rues les plus pittoresques, à côté de l’église Santo Domingo.",
+            "text": "Il s’agit de l’une des rues les plus pittoresques du centre historique. À l’origine, elle était connue sous le nom de rue Nuestra Señora de la Luz, mais elle a changé de nom après la construction des arcs-boutants et des contreforts qui renforcent l’église Santo Domingo, édifiée en 1559. Ces éléments architecturaux étaient nécessaires pour stabiliser les fondations du temple et, en rétrécissant la voie, ils ont transformé la rue en un passage étroit. Aujourd’hui, ce coin plein d’histoire et de charme relie la Plaza Santo Domingo aux remparts et offre une vue unique sur l’architecture coloniale. C’est un lieu idéal pour se promener, prendre des photos et profiter de l’ambiance cartagénoise."
+        },
+        "getsemani": {
+            "title": "Getsemaní : plaza de la Santísima Trinidad",
+            "teaser": "La place du Grito de Independencia, avec une vie nocturne vibrante.",
+            "text": "La place, autrefois appelée Plaza de la Libertad, commémore les habitants de Getsemaní qui lancèrent le « Grito de Independencia » en 1811, mouvements qui amenèrent à l’indépendance de la Nueva Granada.\n\nAujourd’hui, c’est l’une des places les plus animées de Getsemaní, avec une vie nocturne vibrante."
+        },
+        "sanFelipe": {
+            "title": "Château de San Felipe de Barajas",
+            "teaser": "La plus grande forteresse jamais construite dans les Amériques.",
+            "text": "Symbole de la ville, avec les remparts, c’est la plus grande forteresse jamais construite dans les Amériques.\n\nLabyrinthe de couloirs, galeries souterraines, ponts-levis, passages secrets et tunnels d’évacuation. Situé sur une colline, il offre une vue splendide sur la mer et les quartiers de Cartagena."
+        },
+        "laPopa": {
+            "title": "Cerro de la Popa",
+            "teaser": "La colline la plus haute de la ville, avec une vue à presque 360°.",
+            "text": "Situé à 10 minutes du centre historique, le Cerro de la Popa est la colline la plus haute de la ville. Elle offre une vue spectaculaire à presque 360° sur la ville de Cartagena. Depuis son sommet, il est possible de voir la mer des Caraïbes, l’île de Tierra Bomba, les remparts, le centre, la Boquilla, Bocagrande et le nord de la ville.\n\nOn raconte que la colline était un lieu de culte et de cérémonies des peuples indigènes. C’est pour cette raison que les colons espagnols et les prêtres augustins y ont construit une église afin d’éradiquer les coutumes païennes. Le couvent, construit au XVIIe siècle, possède un des plus beaux cloîtres de Colombie."
+        },
+        "rosario": {
+            "title": "Excursion dans les Islas del Rosario",
+            "teaser": "Un archipel de plus de 27 îles, à environ 45 minutes en bateau.",
+            "text": "Les Islas del Rosario sont un archipel paradisiaque situé à environ 45 minutes en bateau de Cartagena."
+        }
+    }
+}
