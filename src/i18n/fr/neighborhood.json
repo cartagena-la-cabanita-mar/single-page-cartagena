@@ -1,0 +1,36 @@
+{
+    "walkTitle": "À pied depuis l’appartement",
+    "supermarkets": {
+        "title": "Supermarchés",
+        "text": "Il y a 5 supermarchés à moins de 10 min à pied, sur la calle 70."
+    },
+    "restaurants": {
+        "title": "Restaurants",
+        "laPescaderia": "Poissons, fruits de mer et ceviches",
+        "atrium": "Burgers, hot dogs, pizzas, desserts",
+        "delivery": "Livraison à domicile",
+        "benditoFrito": "Fritures typiques : arepas, empanadas, etc."
+    },
+    "bakery": "Boulangerie",
+    "more": "Pharmacies, location de voiture et toute une foule de commerces se trouvent sur la calle 70.",
+    "atms": {
+        "title": "Distributeurs de billets",
+        "text": "À l’aéroport, à 5 min à pied, se trouvent les distributeurs d’une grande variété de banques. D’autres distributeurs se trouvent également sur la calle 70."
+    },
+    "beaches": {
+        "title": "Plages",
+        "crespo": {
+            "title": "Plages de Crespo",
+            "text": "Elles se trouvent juste en bas de l’immeuble, avec accès direct.",
+            "swim": "La baignade y est interdite car la plage n’est pas surveillée. En revanche, il est autorisé de rester sur la plage et de s’y balader.",
+            "park": "Le Parque Lineal de Crespo se trouve également juste en bas de l’immeuble, avec une grande piste cyclable.",
+            "badge": "Baignade interdite"
+        },
+        "marbella": {
+            "title": "Plages de Marbella",
+            "text": "Il s’agit des plages les plus proches où la baignade est autorisée.",
+            "walk": "Elles se trouvent à 15 min à pied par la plage.",
+            "badge": "Baignade autorisée"
+        }
+    }
+}
