@@ -1,0 +1,251 @@
+@import "@fontsource-variable/fraunces/full.css";
+@import "@fontsource-variable/fraunces/full-italic.css";
+@import "@fontsource-variable/manrope/wght.css";
+@import "@fontsource-variable/caveat/wght.css";
+@import "lenis/dist/lenis.css";
+@import "tailwindcss";
+
+@theme {
+    --font-display: "Fraunces Variable", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    --font-sans: "Manrope Variable", ui-sans-serif, system-ui, "Segoe UI", sans-serif;
+    --font-hand: "Caveat Variable", "Segoe Print", cursive;
+
+    /* Aegean blues, taken from the striped bedding and the sea below the building */
+    --color-ink: #0a2350;
+    --color-sea-50: #eef7fd;
+    --color-sea-100: #dcedf9;
+    --color-sea-200: #b8dbf3;
+    --color-sea-300: #86c2ea;
+    --color-sea-400: #4aa4df;
+    --color-sea-500: #1f84d1;
+    --color-sea-600: #1558b8;
+    --color-sea-700: #114599;
+    --color-sea-800: #0d3678;
+    --color-sea-900: #0a2652;
+    --color-sea-950: #061a3c;
+
+    /* Turquoise of the balcony chairs and the pool */
+    --color-lagoon-100: #d3f3f5;
+    --color-lagoon-400: #28bfcb;
+    --color-lagoon-500: #12a5b4;
+
+    /* Lemon and sun, from the cushions and the lemon rug */
+    --color-lemon-50: #fff9db;
+    --color-lemon-100: #fff0a8;
+    --color-lemon-300: #ffd84d;
+    --color-lemon-400: #ffc820;
+    --color-lemon-500: #f5b400;
+    --color-lemon-600: #c98d00;
+
+    /* Prohibition and warning marks (the guide's own icons are red) */
+    --color-error: #d64545;
+    --color-error-soft: #fde6e6;
+
+    --ease-swell: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+    html {
+        -webkit-text-size-adjust: 100%;
+    }
+
+    body {
+        margin: 0;
+        font-family: var(--font-sans);
+        font-size: 1.0625rem;
+        line-height: 1.65;
+        color: var(--color-ink);
+        background: #fff;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+        overflow-x: clip;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+        font-family: var(--font-display);
+        font-variation-settings:
+            "SOFT" 100,
+            "WONK" 0;
+        font-optical-sizing: auto;
+        letter-spacing: -0.015em;
+        line-height: 1.06;
+        color: var(--color-sea-900);
+        margin: 0;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    button {
+        cursor: pointer;
+    }
+
+    :focus-visible {
+        outline: 3px solid var(--color-lemon-400);
+        outline-offset: 3px;
+        border-radius: 6px;
+    }
+
+    ::selection {
+        background: var(--color-lemon-300);
+        color: var(--color-sea-950);
+    }
+
+    #root {
+        min-height: 100svh;
+    }
+}
+
+/* Azulejo tile: quatrefoil in cobalt with lemon corner dots */
+@utility pattern-azulejo {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72' viewBox='0 0 72 72'%3E%3Cg fill='none' stroke='%231558b8' stroke-opacity='.16' stroke-width='1.3'%3E%3Crect x='.65' y='.65' width='70.7' height='70.7' rx='3'/%3E%3Ccircle cx='36' cy='36' r='15'/%3E%3Cpath d='M36 5c5 11 5 20 0 31-5-11-5-20 0-31ZM36 67c5-11 5-20 0-31-5 11-5 20 0 31ZM5 36c11-5 20-5 31 0-11 5-20 5-31 0ZM67 36c-11-5-20-5-31 0 11 5 20 5 31 0Z'/%3E%3C/g%3E%3Cg fill='%23ffc820' fill-opacity='.5'%3E%3Ccircle cx='36' cy='36' r='3.2'/%3E%3Ccircle cx='.5' cy='.5' r='4'/%3E%3Ccircle cx='71.5' cy='.5' r='4'/%3E%3Ccircle cx='.5' cy='71.5' r='4'/%3E%3Ccircle cx='71.5' cy='71.5' r='4'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 72px 72px;
+}
+
+/* Same tile, light on dark, for the deep-sea sections */
+@utility pattern-azulejo-light {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72' viewBox='0 0 72 72'%3E%3Cg fill='none' stroke='%23ffffff' stroke-opacity='.06' stroke-width='1.3'%3E%3Crect x='.65' y='.65' width='70.7' height='70.7' rx='3'/%3E%3Ccircle cx='36' cy='36' r='15'/%3E%3Cpath d='M36 5c5 11 5 20 0 31-5-11-5-20 0-31ZM36 67c5-11 5-20 0-31-5 11-5 20 0 31ZM5 36c11-5 20-5 31 0-11 5-20 5-31 0ZM67 36c-11-5-20-5-31 0 11 5 20 5 31 0Z'/%3E%3C/g%3E%3Cg fill='%23ffc820' fill-opacity='.15'%3E%3Ccircle cx='36' cy='36' r='3.2'/%3E%3Ccircle cx='.5' cy='.5' r='4'/%3E%3Ccircle cx='71.5' cy='.5' r='4'/%3E%3Ccircle cx='.5' cy='71.5' r='4'/%3E%3Ccircle cx='71.5' cy='71.5' r='4'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 72px 72px;
+}
+
+/* Blue and white stripes of the bedding and the beach awnings */
+@utility pattern-stripes {
+    background-image: repeating-linear-gradient(90deg, var(--color-sea-600) 0 20px, #fff 20px 40px);
+}
+
+@utility no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+@utility font-soft {
+    font-variation-settings:
+        "SOFT" 100,
+        "WONK" 0;
+}
+
+@utility font-wonk {
+    font-variation-settings:
+        "SOFT" 100,
+        "WONK" 1;
+}
+
+@keyframes drift {
+    to {
+        transform: translate3d(-50%, 0, 0);
+    }
+}
+
+@keyframes bob {
+    0%,
+    100% {
+        transform: translate3d(0, 0, 0);
+    }
+    50% {
+        transform: translate3d(0, -12px, 0);
+    }
+}
+
+@keyframes sway {
+    0%,
+    100% {
+        transform: rotate(-1.4deg);
+    }
+    50% {
+        transform: rotate(1.4deg);
+    }
+}
+
+@keyframes ring {
+    0% {
+        transform: scale(0.55);
+        opacity: 0.85;
+    }
+    100% {
+        transform: scale(1.7);
+        opacity: 0;
+    }
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@utility animate-drift {
+    animation: drift 26s linear infinite;
+}
+
+@utility animate-drift-slow {
+    animation: drift 44s linear infinite;
+}
+
+@utility animate-bob {
+    animation: bob 7s ease-in-out infinite;
+}
+
+@utility animate-bob-slow {
+    animation: bob 10s ease-in-out infinite;
+}
+
+@utility animate-spin-slow {
+    animation: spin 90s linear infinite;
+}
+
+@utility animate-sway {
+    animation: sway 5.5s ease-in-out infinite;
+    transform-origin: top center;
+}
+
+@utility animate-ring {
+    animation: ring 2.6s ease-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.001ms !important;
+    }
+}
+
+@keyframes accordion-down {
+    from {
+        height: 0;
+    }
+    to {
+        height: var(--radix-accordion-content-height);
+    }
+}
+
+@keyframes accordion-up {
+    from {
+        height: var(--radix-accordion-content-height);
+    }
+    to {
+        height: 0;
+    }
+}
+
+@utility animate-accordion-down {
+    animation: accordion-down 0.28s var(--ease-swell);
+}
+
+@utility animate-accordion-up {
+    animation: accordion-up 0.22s ease-in;
+}
+
+@utility scrollbar-sea {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-sea-400) transparent;
+}
