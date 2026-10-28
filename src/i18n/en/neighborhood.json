@@ -1,0 +1,36 @@
+{
+    "walkTitle": "Walking from the apartment",
+    "supermarkets": {
+        "title": "Supermarkets",
+        "text": "There are 5 stores less than 10 minutes walking distance from the building, located on Calle 70."
+    },
+    "restaurants": {
+        "title": "Restaurants",
+        "laPescaderia": "Fish, seafood, ceviche",
+        "atrium": "Burgers, hot dogs, pizza, desgranados (loaded corn bowls), desserts",
+        "delivery": "Delivery",
+        "benditoFrito": "Traditional fried foods"
+    },
+    "bakery": "Bakery",
+    "more": "Pharmacies, car rentals, and other businesses are also on Calle 70.",
+    "atms": {
+        "title": "ATMs",
+        "text": "At the airport, 5 minutes walking from the building, there are ATMs from several banks. Other ATMs are also located on Calle 70."
+    },
+    "beaches": {
+        "title": "Beaches",
+        "crespo": {
+            "title": "Crespo beaches",
+            "text": "Downstairs from the building, with direct access.",
+            "swim": "Swimming is prohibited, but you can stay and walk on the beach.",
+            "park": "The Crespo Lineal Park is downstairs from the building, with a bike path.",
+            "badge": "No swimming"
+        },
+        "marbella": {
+            "title": "Marbella beaches",
+            "text": "The closest beaches where swimming is allowed.",
+            "walk": "A 15-minute walk along the beach.",
+            "badge": "Swimming allowed"
+        }
+    }
+}
