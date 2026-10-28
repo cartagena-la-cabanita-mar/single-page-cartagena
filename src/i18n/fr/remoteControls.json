@@ -1,0 +1,12 @@
+{
+    "fan": {
+        "title": "Télécommande du ventilateur de plafond",
+        "off": "Pour l’éteindre, appuyez sur “FAN OFF”",
+        "on": "Pour l’allumer, appuyez sur un chiffre de 1 à 5 (correspond à la vitesse)",
+        "speed": "Vitesse",
+        "stopped": "Éteint",
+        "try": "Essayez-le ici"
+    },
+    "tv": "Télécommande TV",
+    "ac": "Télécommande climatisation"
+}
