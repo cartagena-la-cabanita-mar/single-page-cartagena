@@ -1,0 +1,14 @@
+{
+    "intro": "The Rosario Islands are a paradisiacal archipelago about 45 minutes by boat from Cartagena. With more than 27 islands, these jewels of the Colombian Caribbean offer white sand beaches, crystal-clear waters, and impressive marine biodiversity. It’s the ideal destination for snorkeling, diving, kayaking, or just relaxing under the sun.",
+    "tours": "Tours usually include transport, lunch, and water activities. You can choose between day trips and day passes at hotels on the islands. For more privacy, consider renting a private boat to explore less crowded coves.",
+    "reserve": "Tours can be booked at the Muelle de la Bodeguita, near the Clock Tower.",
+    "tip": "Avoid bringing valuables and stay hydrated during the day.",
+    "tabs": {
+        "rosario": "Rosario Islands",
+        "baru": "Barú Island",
+        "tierraBomba": "Tierra Bomba Island"
+    },
+    "notes": {
+        "majagua": "Isla Grande"
+    }
+}
