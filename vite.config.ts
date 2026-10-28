@@ -4,7 +4,11 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
-export default defineConfig({
+/** GitHub Pages serves the site from /single-page-cartagena/, so production builds need that base path. */
+const PAGES_BASE_PATH = "/single-page-cartagena/";
+
+export default defineConfig(({ command }) => ({
+    base: command === "build" ? PAGES_BASE_PATH : "/",
     plugins: [react(), tailwindcss()],
     server: {
         allowedHosts: [".devtunnels.ms", ".trycloudflare.com"],
@@ -17,4 +21,4 @@ export default defineConfig({
             "@": fileURLToPath(new URL("./src", import.meta.url)),
         },
     },
-});
+}));
