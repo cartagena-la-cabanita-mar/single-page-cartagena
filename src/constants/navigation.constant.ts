@@ -2,6 +2,7 @@ import {
     BedDouble,
     Clapperboard,
     ClipboardList,
+    Heart,
     Home,
     KeyRound,
     Landmark,
@@ -41,6 +42,7 @@ export const SECTION_ICONS: Record<SectionId, LucideIcon> = {
     [SectionId.Shopping]: ShoppingBag,
     [SectionId.Emergency]: TriangleAlert,
     [SectionId.Inventory]: ClipboardList,
+    [SectionId.ComeBack]: Heart,
 };
 
 export const NAV_GROUPS: Array<NavGroup> = [
@@ -72,7 +74,7 @@ export const NAV_GROUPS: Array<NavGroup> = [
     },
     {
         id: NavGroupId.Help,
-        sections: [SectionId.Emergency, SectionId.Inventory],
+        sections: [SectionId.Emergency, SectionId.Inventory, SectionId.ComeBack],
     },
 ];
 
