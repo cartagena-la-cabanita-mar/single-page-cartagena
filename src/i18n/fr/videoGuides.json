@@ -1,0 +1,9 @@
+{
+    "lead": "Découvrez le fonctionnement de chaque appareil avant de l’utiliser.",
+    "videos": {
+        "airRemote": "Télécommande de la climatisation",
+        "fanRemote": "Télécommande du ventilateur de plafond",
+        "cooktop": "Plaques à induction",
+        "cooktopUnlock": "Plaques à induction : déverrouillage"
+    }
+}
