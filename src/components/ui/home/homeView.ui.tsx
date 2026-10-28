@@ -3,6 +3,7 @@ import AirConditioningSectionUI from "@/components/ui/airConditioning/airConditi
 import AuxiliaryBedSectionUI from "@/components/ui/auxiliaryBed/auxiliaryBedSection.ui";
 import CheckInSectionUI from "@/components/ui/checkin/checkInSection.ui";
 import CheckoutSectionUI from "@/components/ui/checkout/checkoutSection.ui";
+import ComeBackSectionUI from "@/components/ui/comeBack/comeBackSection.ui";
 import CommonAreasSectionUI from "@/components/ui/commonAreas/commonAreasSection.ui";
 import ElectricitySectionUI from "@/components/ui/electricity/electricitySection.ui";
 import EmergencySectionUI from "@/components/ui/emergency/emergencySection.ui";
@@ -64,6 +65,7 @@ export default function HomeViewUI() {
                     <ShoppingSectionUI />
                     <EmergencySectionUI />
                     <InventorySectionUI />
+                    <ComeBackSectionUI />
                 </main>
                 <FooterUI />
             </div>
