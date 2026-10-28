@@ -1,16 +1,4 @@
-import {
-    Blinds,
-    CigaretteOff,
-    Droplets,
-    PartyPopper,
-    PawPrint,
-    Pill,
-    Power,
-    ShieldAlert,
-    Trash2,
-    UserX,
-    Utensils,
-} from "lucide-react";
+import { Blinds, CigaretteOff, Droplets, PartyPopper, PawPrint, Pill, Power, ShieldAlert, UserX } from "lucide-react";
 import { CheckoutTask, HouseRule } from "@/enums/apartment.enum";
 import type { CheckoutTaskItem, HouseRuleItem } from "@/interfaces/apartment.interface";
 
@@ -43,7 +31,5 @@ export const HOUSE_RULES: Array<HouseRuleItem> = [
 
 export const CHECKOUT_TASKS: Array<CheckoutTaskItem> = [
     { id: CheckoutTask.TurnOff, Icon: Power },
-    { id: CheckoutTask.Dishes, Icon: Utensils },
-    { id: CheckoutTask.Trash, Icon: Trash2 },
     { id: CheckoutTask.Window, Icon: Blinds },
 ];
