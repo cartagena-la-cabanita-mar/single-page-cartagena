@@ -1,7 +1,8 @@
 import { Wifi } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import CopyButtonUI from "@/components/ui/commons/copyButton.ui";
-import { WIFI_NETWORK, WIFI_PASSWORD } from "@/constants/apartment.constant";
+import WifiPasswordUI from "@/components/ui/wifi/wifiPassword.ui";
+import { WIFI_NETWORK } from "@/constants/apartment.constant";
 
 interface CredentialProps {
     label: string;
@@ -50,7 +51,7 @@ export default function WifiTicketUI() {
             <div className="flex flex-1 flex-col justify-center gap-6 border-t-2 border-dashed border-sea-200 p-8 sm:border-t-0 sm:border-l-2">
                 <p className="font-hand text-3xl text-sea-600">{t("join")}</p>
                 <CredentialUI label={t("network")} value={WIFI_NETWORK} />
-                <CredentialUI label={t("password")} value={WIFI_PASSWORD} />
+                <WifiPasswordUI />
             </div>
         </div>
     );
