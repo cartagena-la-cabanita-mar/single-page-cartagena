@@ -7,10 +7,10 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
     plugins: [react(), tailwindcss()],
     server: {
-        allowedHosts: [".devtunnels.ms"],
+        allowedHosts: [".devtunnels.ms", ".trycloudflare.com"],
     },
     preview: {
-        allowedHosts: [".devtunnels.ms"],
+        allowedHosts: [".devtunnels.ms", ".trycloudflare.com"],
     },
     resolve: {
         alias: {
