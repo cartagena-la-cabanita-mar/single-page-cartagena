@@ -1,0 +1,31 @@
+{
+    "label": "Guide sections",
+    "open": "Open the sections menu",
+    "close": "Close the menu",
+    "skip": "Skip to content",
+    "groups": {
+        "apartment": "Your apartment",
+        "explore": "Explore Cartagena",
+        "help": "Help"
+    },
+    "items": {
+        "welcome": "Welcome",
+        "check-in": "Check in and entry",
+        "electricity": "Turning on the electricity",
+        "air-conditioning": "Air conditioner",
+        "wifi": "Wifi",
+        "house-rules": "House rules",
+        "remote-controls": "Use of remote controls",
+        "video-guides": "Video guides",
+        "check-out": "Check out",
+        "auxiliary-bed": "How to use the extra bed",
+        "common-areas": "Common areas",
+        "neighborhood": "Recommendations in the neighborhood",
+        "tourism": "Tourist recommendations",
+        "gastronomy": "Gastronomic recommendations",
+        "island-day-passes": "Day trips to the islands",
+        "shopping": "Shopping",
+        "emergency": "In case of emergency",
+        "inventory": "Inventory"
+    }
+}
