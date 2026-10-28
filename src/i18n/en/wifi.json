@@ -1,5 +1,10 @@
 {
     "network": "Network",
     "password": "Password",
-    "join": "Join this network"
+    "join": "Join this network",
+    "locked": "Enter the 4-digit code to see the password.",
+    "codeLabel": "Access code",
+    "wrongCode": "Wrong code. Try again.",
+    "checking": "Checking…",
+    "unavailable": "The password is not available right now."
 }
