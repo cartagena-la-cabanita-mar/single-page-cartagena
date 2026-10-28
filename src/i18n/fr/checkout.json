@@ -1,0 +1,22 @@
+{
+    "timeLabel": "Heure maximale de check-out",
+    "time": "11h",
+    "cleaning": "Le service de ménage est programmé à cette heure pour préparer l’appartement pour les prochains visiteurs.",
+    "codeExpires": "À 11h du matin, votre code d’accès à l’appartement expirera.",
+    "before": "Avant de quitter l’appartement, nous vous remercions de bien vouloir :",
+    "tasks": {
+        "off": "Éteindre la climatisation, le ventilateur, la télévision et toutes les lumières",
+        "dishes": "Laver la vaisselle",
+        "trash": "Jeter les poubelles dans le vide-ordures près des ascenseurs",
+        "window": "Fermer la fenêtre et le store"
+    },
+    "done": "Tout est fait. Merci de prendre soin de notre petite maison.",
+    "wristband": "Votre bracelet sera coupé lors du check-out.",
+    "luggage": {
+        "title": "Service de consigne à bagages",
+        "p1": "Avant le check-in, ou après le check-out, le bâtiment propose un service de consigne à bagages pour un tarif de 10 000 COP / pièce pour une durée de 24h. Ce service n’est pas inclus dans le tarif de location de l’appartement, et ce service est proposé directement par l’immeuble, pas par nous.",
+        "p2": "Le paiement doit se faire à la réception de l’immeuble par carte bancaire pour les personnes disposant d’un compte bancaire étranger, ou via un QR code disposé à la réception pour les personnes disposant d’un compte bancaire colombien.",
+        "noCash": "Les paiements en espèces ne sont pas acceptés.",
+        "perPiece": "par pièce, pour une durée de 24h"
+    }
+}
