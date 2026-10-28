@@ -1,0 +1,12 @@
+{
+    "onEntry": "Al entrar:",
+    "step1": {
+        "title": "Sube todos los tacos en el tablero",
+        "text": "Deben quedar en esta posición exacta:"
+    },
+    "step2": {
+        "title": "Presiona el interruptor “Energy Bill saver” para encender la electricidad",
+        "text": "Este sistema de ahorro de energía se apagará cada vez que se abre y cierra la puerta de entrada.",
+        "warning": "Cada vez que ingreses al apartamento será necesario presionar este interruptor:"
+    }
+}
