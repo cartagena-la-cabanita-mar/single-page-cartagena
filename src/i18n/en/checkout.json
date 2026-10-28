@@ -1,0 +1,22 @@
+{
+    "timeLabel": "Check out time",
+    "time": "11am",
+    "cleaning": "We have scheduled cleaning service at this time to prepare the apartment for our next guests.",
+    "codeExpires": "At 11am, your apartment access code will expire.",
+    "before": "Before leaving the apartment, please:",
+    "tasks": {
+        "off": "Turn off the air conditioner, fan, TV, and all lights",
+        "dishes": "Wash the dishes",
+        "trash": "Take out the trash to the dedicated trash chute next to the elevators",
+        "window": "Close the window and blackout curtain"
+    },
+    "done": "All set. Thank you for taking care of our little house.",
+    "wristband": "Your wristband will be cut off at the moment of check-out.",
+    "luggage": {
+        "title": "Luggage storage service",
+        "p1": "Before check-in, or after check-out, the building provides a luggage storage service for a value of 10 000 COP / piece for 24 hours. This service is not included in the rental fee of the apartment, and is provided directly by the building, not by us.",
+        "p2": "Payment must be made at reception, through a QR code provided at the reception for people who have a Colombian bank account, or by credit or debit card for people who have a foreign bank account.",
+        "noCash": "Cash payments are not accepted by the building administration.",
+        "perPiece": "per piece, for 24 hours"
+    }
+}
