@@ -1,0 +1,9 @@
+{
+    "lead": "See how each appliance works before you use it.",
+    "videos": {
+        "airRemote": "Air conditioning remote",
+        "fanRemote": "Ceiling fan remote",
+        "cooktop": "Induction cooktop",
+        "cooktopUnlock": "Induction cooktop: unlocking"
+    }
+}
