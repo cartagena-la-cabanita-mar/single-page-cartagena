@@ -6,8 +6,6 @@
     "before": "Antes de salir del apartamento, te agradecemos por favor por:",
     "tasks": {
         "off": "Apagar el aire acondicionado, el ventilador, el televisor, y todas las luces",
-        "dishes": "Lavar la loza",
-        "trash": "Botar las basuras en el shut al lado de los ascensores",
         "window": "Cerrar la ventana y el black out"
     },
     "done": "Todo listo. Gracias por cuidar la casita.",
