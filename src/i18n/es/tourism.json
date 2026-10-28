@@ -1,0 +1,81 @@
+{
+    "lead": "Un recorrido por los lugares que no te puedes perder, desde las murallas hasta las colinas y las islas.",
+    "seeIslands": "Ver pasadías en las islas",
+    "places": {
+        "walledCity": {
+            "title": "Ciudad Amurallada",
+            "teaser": "Patrimonio mundial de la UNESCO, con calles coloniales y arquitectura muy bien conservada.",
+            "text": "Es el corazón de la ciudad histórica, la ciudad amurallada es un sitio clasificado patrimonio mundial de la UNESCO. Pasea por sus calles coloniales, para admirar su arquitectura increíblemente bien conservada."
+        },
+        "santoDomingo": {
+            "title": "Plaza Santo Domingo",
+            "teaser": "La iglesia más antigua de Cartagena y la famosa Gorda Gertrudis de Botero.",
+            "text": "La plaza de Santo Domingo es una de las más famosas de la ciudad. En ella se encuentra la iglesia más antigua de Cartagena, en la que se puede visitar el convento. El interior de la iglesia, con sus colores blanco y ocre, se anima cuando está bañada de luz.\n\nEn la plaza se encuentra la famosa escultura de Fernando Botero, la “Gorda Gertrudis” cuya leyenda dice que tocar sus nalgas trae suerte, tocar sus pechos asegura una larga vida amorosa a su pareja, o te promete volver a visitar algún día Cartagena. El museo de la iglesia se puede visitar y posee la colección de arte religioso más importante de Cartagena, con obras de arte africano y afrocaribeño únicas."
+        },
+        "plazaBolivar": {
+            "title": "La plaza Bolívar",
+            "teaser": "Antigua plaza de la Inquisición; al atardecer bailan el Mapalé.",
+            "text": "Antiguamente plaza de la Inquisición, puesto que era donde la Iglesia católica practicaba las ejecuciones y los autos de fe, fue renombrada a finales del siglo XIX en honor a Simón Bolívar. En ella se encuentran numerosos monumentos importantes de la ciudad. Al atardecer, los bailarines de Mapalé, danza tradicional de las poblaciones afrodescendientes, vienen a hacer el espectáculo, ¡un imperdible!\n\nRecomendamos visitar el Palacio de la Inquisición, en el Museo Histórico de Cartagena.\n\nEn la plaza Bolívar te recomendamos visitar el Museo del Oro Zenú, pequeño museo en una hermosa casa colonial que destaca por ofrecer una colección de artesanías y objetos de oro de la cultura indígena Zenú que datan de la época prehispánica."
+        },
+        "sanPedroClaver": {
+            "title": "La plaza de San Pedro Claver",
+            "teaser": "Esculturas de Edgardo Carmona y la estatua de San Pedro Claver.",
+            "text": "En la plaza de San Pedro Claver se pueden encontrar curiosas esculturas contemporáneas del artista Edgardo Carmona, que representan los oficios tradicionales y escenas de vida del Caribe colombiano.\n\nSe encuentra otra estatua, la del sacerdote San Pedro Claver que habla con un esclavo. La estatua representa el papel que ha desempeñado el sacerdote para liberar a los esclavos africanos."
+        },
+        "clockTower": {
+            "title": "Torre del Reloj",
+            "teaser": "El monumento más fotografiado y la antigua puerta de entrada a las murallas.",
+            "text": "La Torre del Reloj es uno de los símbolos de Cartagena y lo convierte en uno de los monumentos más fotografiados de la ciudad. Históricamente fue la única entrada posible dentro de las murallas.\n\nLa Torre del Reloj lleva al interior de las murallas a la Plaza de los Coches, antiguamente Plaza de los esclavos donde se celebraba el cruel mercado de esclavos. Cartagena era considerada el mayor puerto negrero del continente sudamericano.\n\nHoy en día se encuentra el Portal de los dulces, donde encontrarás todo tipo de vendedores de dulces tradicionales."
+        },
+        "cathedral": {
+            "title": "Catedral de Cartagena",
+            "teaser": "Cúpula de un amarillo vibrante y un interior blanco, sencillo y elegante.",
+            "text": "La Catedral de Santa Catalina, de un color amarillo vibrante, es sin duda otro de los monumentos más emblemáticos de Cartagena. Magnífica con su colorida cúpula, se puede contemplar desde diferentes ángulos según la calle desde la que se admire.\n\nEl interior de la catedral es sencillo, pero elegante con sus columnas blancas y su techo de madera."
+        },
+        "herediaTheater": {
+            "title": "Teatro Heredia de Cartagena",
+            "teaser": "Un teatro de estilo italiano de 1911, con balcones tallados como encaje.",
+            "text": "El Teatro Heredia sorprende por su belleza, color pastel y letras antiguas. Construido en 1911 para conmemorar la independencia de Cartagena, es considerado uno de los teatros más bellos de Colombia. Descubrirás un esplendor de teatro de estilo italiano con una sublime decoración interior, con balcones tallados como encaje y escaleras de mármol. Las visitas son posibles entre semana, pero quizás la mejor manera de disfrutarlas es reservando un lugar para un concierto, como por ejemplo durante el famoso Festival de Música Clásica de Cartagena durante el mes de diciembre."
+        },
+        "sunset": {
+            "title": "Admirar los atardeceres desde la muralla",
+            "teaser": "Una copa en El Baluarte de la Gente mientras el cielo se enciende.",
+            "text": "Admira el atardecer caminando sobre la imponente muralla y tomando una copa en El Baluarte de la Gente. Es un lugar ineludible, un clásico entre los clásicos. Cuando el cielo se enciende al atardecer, los techos de Cartagena se iluminan y los edificios de Bocagrande encienden sus luces, el ambiente es espectacular y el momento realmente inolvidable."
+        },
+        "bovedas": {
+            "title": "Las Bóvedas de Santa Clara",
+            "teaser": "Antiguos almacenes de municiones, hoy llenos de artesanías.",
+            "text": "Las Bóvedas de Santa Clara son antiguos almacenes de municiones y antiguas celdas de prisión. Hoy esconden una cantidad de almacenes de artesanías, antigüedades y objetos típicos de la zona."
+        },
+        "indiaCatalina": {
+            "title": "Monumento a la India Catalina",
+            "teaser": "Homenaje a la intérprete de la conquista; un punto ideal para fotos.",
+            "text": "El monumento a la India Catalina es uno de los símbolos más representativos de la ciudad. Esta escultura rinde homenaje a una mujer indígena que desempeñó un papel clave durante la época de la conquista española, sirviendo como intérprete entre los conquistadores y las comunidades nativas.\n\nUbicada en una rotonda cerca del centro histórico, la estatua destaca por su elegancia y serenidad. Es un punto ideal para tomar fotos y conocer un poco más sobre la historia multicultural de la ciudad."
+        },
+        "callejonEstribos": {
+            "title": "Callejón de los Estribos",
+            "teaser": "Una de las calles más pintorescas, junto a la Iglesia de Santo Domingo.",
+            "text": "El Callejón de los Estribos es una de las calles más pintorescas del centro histórico. Originalmente conocida como la calle Nuestra Señora de la Luz, cambió de nombre tras la construcción de los estribos y contrafuertes que refuerzan la Iglesia de Santo Domingo, edificada en 1559. Estos elementos arquitectónicos fueron necesarios para estabilizar los cimientos del templo, y al estrecharse la vía, se convirtió en un callejón. Hoy en día, este rincón lleno de historia y encanto conecta la Plaza Santo Domingo con la muralla, y ofrece una vista única de la arquitectura colonial. Es un lugar ideal para pasear, tomar fotos y disfrutar del ambiente cartagenero."
+        },
+        "getsemani": {
+            "title": "Getsemaní: plaza de la Santísima Trinidad",
+            "teaser": "La plaza del Grito de Independencia, con una vibrante vida nocturna.",
+            "text": "Esa plaza era llamada antiguamente Plaza de la Libertad, en honor a los habitantes del barrio Getsemaní que lanzaron el “Grito de Independencia” en 1811, movimientos que llevaron a la independencia de lo que entonces era la Nueva Granada.\n\nHoy en día es una de las plazas más animadas de Getsemaní con una vibrante vida nocturna."
+        },
+        "sanFelipe": {
+            "title": "Castillo de San Felipe de Barajas",
+            "teaser": "La mayor fortificación jamás construida en las Américas.",
+            "text": "El Castillo de San Felipe es uno de los símbolos de la ciudad de Cartagena que, junto con las murallas del casco antiguo, representa la mayor fortificación jamás construida en las Américas.\n\nEl Castillo de San Felipe es un laberinto de pasillos y pasarelas, galerías subterráneas y puentes levadizos, pasadizos secretos y túneles de evacuación. Su ubicación, en una colina, con vistas a la ciudad, ofrece unas espléndidas vistas al mar y a los diferentes barrios de Cartagena."
+        },
+        "laPopa": {
+            "title": "Cerro de la Popa",
+            "teaser": "La colina más alta de la ciudad, con una vista casi a 360°.",
+            "text": "Situado a 10 minutos del centro histórico, el Cerro de la Popa es la colina más alta de la ciudad. Ofrece una vista espectacular, casi a 360°, de la ciudad de Cartagena. Desde arriba se puede ver el Mar Caribe, Isla de Tierrabomba, la muralla, el centro, la Boquilla, Bocagrande y todo el norte de la ciudad.\n\nSe dice que la colina era un lugar de culto y ceremonias para los pueblos indígenas y que por esa razón los colonos españoles y los sacerdotes agustinos construyeron allí una iglesia con el fin de erradicar sus costumbres paganas. El convento, construido en el siglo XVII, cuenta con lo que sería uno de los claustros más bellos de toda Colombia."
+        },
+        "rosario": {
+            "title": "Excursión a las Islas del Rosario",
+            "teaser": "Un archipiélago de más de 27 islas, a unos 45 minutos en lancha.",
+            "text": "Las Islas del Rosario son un archipiélago paradisíaco ubicado a unos 45 minutos en lancha desde Cartagena."
+        }
+    }
+}
