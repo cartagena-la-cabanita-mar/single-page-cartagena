@@ -1,0 +1,19 @@
+{
+    "lead": "Mesas para todos los momentos del día: desde el pescado frente al mar hasta un cóctel sobre la muralla.",
+    "zones": {
+        "historic": "Centro histórico",
+        "getsemani": "Getsemaní",
+        "crespo": "Crespo",
+        "bocagrande": "Bocagrande"
+    },
+    "brunch": "Brunch",
+    "bars": "Bares",
+    "restaurants": "Restaurantes",
+    "walkFromHere": "5 min caminando desde el apartamento",
+    "notes": {
+        "botika": "Rooftop del hotel Sofitel Santa Clara",
+        "fidel": "Club de salsa",
+        "baluarte": "Sobre la muralla, frente al mar",
+        "sevenSkies": "Rooftop gastrobar"
+    }
+}
