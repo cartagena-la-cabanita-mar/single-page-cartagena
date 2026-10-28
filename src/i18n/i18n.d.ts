@@ -22,6 +22,7 @@ import islands from "@/i18n/es/islands.json";
 import shopping from "@/i18n/es/shopping.json";
 import emergency from "@/i18n/es/emergency.json";
 import inventory from "@/i18n/es/inventory.json";
+import comeBack from "@/i18n/es/comeBack.json";
 
 const resources = {
     translation,
@@ -46,6 +47,7 @@ const resources = {
     shopping,
     emergency,
     inventory,
+    comeBack,
 } as const;
 
 declare module "i18next" {
