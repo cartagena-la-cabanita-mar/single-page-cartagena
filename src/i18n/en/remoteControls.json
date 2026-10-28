@@ -1,0 +1,12 @@
+{
+    "fan": {
+        "title": "Ceiling fan remote",
+        "off": "To turn off, press “FAN OFF”",
+        "on": "To turn on, press a number from 1 to 5: it corresponds to the speed",
+        "speed": "Speed",
+        "stopped": "Off",
+        "try": "Try it here"
+    },
+    "tv": "TV remote",
+    "ac": "Air conditioner remote"
+}
