@@ -1,0 +1,33 @@
+{
+    "brand": {
+        "manual": "Manual de bienvenida",
+        "resort": "Cartagena Beach Resort",
+        "unit": "Apartasuite 1317",
+        "address": "Carrera 7 #67-77, Piso 13, Apto 1317, Crespo, Cartagena"
+    },
+    "language": {
+        "label": "Idioma",
+        "es": "Español",
+        "en": "English",
+        "fr": "Français"
+    },
+    "hero": {
+        "greeting": "¡Bienvenido(a)!",
+        "intro": "Te deseamos la bienvenida a nuestra casita de playa. Nos alegra que hayas elegido quedarte en nuestro alojamiento.",
+        "lead": "Para que disfrutes al máximo tu estadía, aquí te dejamos una guía de bienvenida. ¡Que disfrutes!",
+        "start": "Empezar el recorrido",
+        "plate": "Apartasuite",
+        "scroll": "Desliza para empezar"
+    },
+    "welcome": {
+        "indexTitle": "Índice",
+        "indexText": "Toca una sección para ir directo a ella.",
+        "addressTitle": "Dónde estamos"
+    },
+    "footer": {
+        "enjoy": "¡Disfruta tu estadía en Cartagena!",
+        "creditsTitle": "Créditos de las fotos",
+        "creditsText": "Las fotos del apartamento y del edificio son de los anfitriones. Las demás son de Wikimedia Commons, con licencias libres.",
+        "by": "de"
+    }
+}
