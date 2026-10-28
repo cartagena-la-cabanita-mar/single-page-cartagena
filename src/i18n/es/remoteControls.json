@@ -1,0 +1,12 @@
+{
+    "fan": {
+        "title": "Control remoto para ventilador de techo",
+        "off": "Para apagar, presiona “FAN OFF”",
+        "on": "Para encender, presiona un número de 1 a 5: corresponde a la velocidad",
+        "speed": "Velocidad",
+        "stopped": "Apagado",
+        "try": "Pruébalo aquí"
+    },
+    "tv": "Control para TV",
+    "ac": "Control para aire acondicionado"
+}
