@@ -1,0 +1,22 @@
+{
+    "timeLabel": "Horario de check out",
+    "time": "11am",
+    "cleaning": "Hemos programado el servicio de limpieza a esta hora para dejar todo listo para nuestros próximos huéspedes.",
+    "codeExpires": "A las 11am expirará tu código de acceso al apartamento.",
+    "before": "Antes de salir del apartamento, te agradecemos por favor por:",
+    "tasks": {
+        "off": "Apagar el aire acondicionado, el ventilador, el televisor, y todas las luces",
+        "dishes": "Lavar la loza",
+        "trash": "Botar las basuras en el shut al lado de los ascensores",
+        "window": "Cerrar la ventana y el black out"
+    },
+    "done": "Todo listo. Gracias por cuidar la casita.",
+    "wristband": "Tu manilla será cortada al momento del check out.",
+    "luggage": {
+        "title": "Servicio de guarda equipaje",
+        "p1": "Antes del check in, o después del check out, el edificio ofrece un servicio de guarda equipaje por un valor de 10 000 COP / pieza durante 24 horas. Este servicio no está incluido en la tarifa de alquiler del apartamento, y es ofrecido directamente por el edificio, no por nosotros.",
+        "p2": "El pago debe hacerse en la recepción del edificio, a través de un código QR dispuesto en la recepción para las personas que disponen de una cuenta bancaria colombiana; o por tarjeta de crédito o débito para las personas que disponen de una cuenta bancaria extranjera.",
+        "noCash": "El edificio no acepta pagos en efectivo.",
+        "perPiece": "por pieza, durante 24 horas"
+    }
+}
