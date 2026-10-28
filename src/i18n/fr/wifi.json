@@ -1,5 +1,10 @@
 {
     "network": "Réseau",
     "password": "Mot de passe",
-    "join": "Connectez-vous à ce réseau"
+    "join": "Connectez-vous à ce réseau",
+    "locked": "Saisissez le code à 4 chiffres pour voir le mot de passe.",
+    "codeLabel": "Code d’accès",
+    "wrongCode": "Code incorrect. Réessayez.",
+    "checking": "Vérification…",
+    "unavailable": "Le mot de passe n’est pas disponible pour le moment."
 }
