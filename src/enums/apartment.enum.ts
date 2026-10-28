@@ -10,8 +10,6 @@ export enum HouseRule {
 
 export enum CheckoutTask {
     TurnOff = "off",
-    Dishes = "dishes",
-    Trash = "trash",
     Window = "window",
 }
 
