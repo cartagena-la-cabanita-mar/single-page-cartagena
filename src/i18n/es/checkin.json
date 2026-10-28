@@ -1,0 +1,14 @@
+{
+    "lobby": {
+        "title": "Registro en el lobby",
+        "p1": "Al llegar, preséntate en el lobby principal con tu documento de identidad para realizar el registro.",
+        "p2": "Les entregarán a cada uno de los huéspedes registrados una manilla durante su estadía.",
+        "p3": "Esa manilla será cortada al momento del check out."
+    },
+    "door": {
+        "title": "Ingreso al apartamento",
+        "text": "Toca la pantalla de la chapa inteligente para que aparezca el teclado e ingresa el código recibido anteriormente.",
+        "tap": "Tocar pantalla",
+        "enter": "Ingresar código"
+    }
+}
