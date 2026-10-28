@@ -1,0 +1,14 @@
+{
+    "intro": "Las Islas del Rosario son un archipiélago paradisíaco ubicado a unos 45 minutos en lancha desde Cartagena. Conformadas por más de 27 islas, estas joyas del Caribe colombiano ofrecen playas de arena blanca, aguas cristalinas y una biodiversidad marina impresionante. Es el destino ideal para practicar snorkel, buceo, kayak o simplemente relajarse bajo el sol.",
+    "tours": "Los tours suelen incluir transporte, almuerzo y actividades acuáticas. Puedes elegir entre excursiones de un día o pasadías en hoteles de las islas. Si prefieres más privacidad, considera alquilar una lancha privada para explorar calas menos concurridas.",
+    "reserve": "Se puede reservar los tours en el Muelle de la Bodeguita, cerca de la Torre del Reloj.",
+    "tip": "Evita llevar objetos de valor y mantente hidratado durante el día.",
+    "tabs": {
+        "rosario": "Islas del Rosario",
+        "baru": "Isla de Barú",
+        "tierraBomba": "Isla de Tierra Bomba"
+    },
+    "notes": {
+        "majagua": "Isla Grande"
+    }
+}
