@@ -1,14 +1,13 @@
 import { Blinds, CigaretteOff, Droplets, PartyPopper, PawPrint, Pill, Power, ShieldAlert, UserX } from "lucide-react";
 import { CheckoutTask, HouseRule } from "@/enums/apartment.enum";
 import type { CheckoutTaskItem, HouseRuleItem } from "@/interfaces/apartment.interface";
+import { parseWifiVault } from "@/utils/wifiVault.util";
 
 export const APARTMENT_MAPS_QUERY = "Cartagena Beach Resort Carrera 7 #67-77 Crespo Cartagena Colombia";
 
 export const WIFI_NETWORK = "1317";
-export const WIFI_PASSWORD = "Cartagena2025";
-
-export const HOST_WHATSAPP = "+573227226006";
-export const HOST_WHATSAPP_LABEL = "+57 322 722 6006";
+/** The Wi-Fi password only exists encrypted: it is opened in the browser with the guest's access code. */
+export const WIFI_VAULT = parseWifiVault(import.meta.env.WIFI_VAULT);
 
 export const AUXILIARY_BED_VIDEO_URL = "https://www.youtube.com/shorts/BmoZGsEvnSU";
 
