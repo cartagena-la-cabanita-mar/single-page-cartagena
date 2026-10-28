@@ -1,0 +1,14 @@
+{
+    "intro": "Les Islas del Rosario sont un archipel paradisiaque situé à environ 45 minutes en bateau de Cartagena. Avec plus de 27 îles, ce joyau de la Caraïbe colombienne offre des plages de sable blanc, des eaux cristallines et une biodiversité marine exceptionnelle. C’est la destination idéale pour le snorkeling, la plongée, le kayak ou simplement pour se détendre au soleil.",
+    "tours": "Les excursions incluent généralement le transport, le déjeuner et parfois des activités nautiques. Vous pouvez choisir entre des excursions d’une journée ou des journées dans les hôtels des îles. Si vous préférez plus d’intimité, il est possible de louer un bateau privé pour explorer des criques plus tranquilles.",
+    "reserve": "Vous pouvez réserver les tours au Muelle de la Bodeguita, près de la Torre del Reloj.",
+    "tip": "Évitez d’emporter des objets de valeur et hydratez-vous bien.",
+    "tabs": {
+        "rosario": "Islas del Rosario",
+        "baru": "Presqu’île de Barú",
+        "tierraBomba": "Île de Tierra Bomba"
+    },
+    "notes": {
+        "majagua": "Isla Grande"
+    }
+}
