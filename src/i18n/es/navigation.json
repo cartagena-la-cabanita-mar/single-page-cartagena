@@ -1,0 +1,31 @@
+{
+    "label": "Secciones de la guía",
+    "open": "Abrir el menú de secciones",
+    "close": "Cerrar el menú",
+    "skip": "Saltar al contenido",
+    "groups": {
+        "apartment": "Tu apartamento",
+        "explore": "Explora Cartagena",
+        "help": "Ayuda"
+    },
+    "items": {
+        "welcome": "Bienvenida",
+        "check-in": "Check in e ingreso",
+        "electricity": "Encender la electricidad",
+        "air-conditioning": "Aire acondicionado",
+        "wifi": "Wifi",
+        "house-rules": "Reglas de la casa",
+        "remote-controls": "Uso de controles remotos",
+        "video-guides": "Videos guía",
+        "check-out": "Check out",
+        "auxiliary-bed": "Uso de la cama auxiliar",
+        "common-areas": "Zonas comunes",
+        "neighborhood": "Recomendaciones en el barrio",
+        "tourism": "Recomendaciones turísticas",
+        "gastronomy": "Recomendaciones gastronómicas",
+        "island-day-passes": "Pasadías en las islas",
+        "shopping": "Shopping",
+        "emergency": "En caso de emergencia",
+        "inventory": "Inventario"
+    }
+}
