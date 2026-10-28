@@ -422,4 +422,9 @@ export const PHOTO_MANIFEST = {
         height: 1024,
         sizes: [960, 1536],
     },
+    "instagram-qr": {
+        width: 872,
+        height: 871,
+        sizes: [400, 872],
+    },
 } as const satisfies Record<string, PhotoMeta>;
