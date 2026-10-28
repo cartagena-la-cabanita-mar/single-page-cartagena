@@ -1,0 +1,12 @@
+{
+    "onEntry": "À l’entrée :",
+    "step1": {
+        "title": "Allumez tous les boutons du disjoncteur",
+        "text": "Ils doivent être dans la position allumée indiquée ci-dessous :"
+    },
+    "step2": {
+        "title": "Appuyez sur l’interrupteur “Energy Bill saver” pour activer l’électricité",
+        "text": "Ce système d’économie d’énergie éteindra l’électricité à chaque fois que vous ouvrirez et refermerez la porte d’entrée.",
+        "warning": "Il sera nécessaire d’appuyer sur cet interrupteur à chaque fois que vous sortirez et rentrerez dans l’appartement :"
+    }
+}
