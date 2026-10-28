@@ -17,6 +17,7 @@ export enum SectionId {
     Shopping = "shopping",
     Emergency = "emergency",
     Inventory = "inventory",
+    ComeBack = "come-back",
 }
 
 export enum NavGroupId {
