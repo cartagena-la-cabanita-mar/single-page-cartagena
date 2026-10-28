@@ -6,8 +6,6 @@
     "before": "Avant de quitter l’appartement, nous vous remercions de bien vouloir :",
     "tasks": {
         "off": "Éteindre la climatisation, le ventilateur, la télévision et toutes les lumières",
-        "dishes": "Laver la vaisselle",
-        "trash": "Jeter les poubelles dans le vide-ordures près des ascenseurs",
         "window": "Fermer la fenêtre et le store"
     },
     "done": "Tout est fait. Merci de prendre soin de notre petite maison.",
