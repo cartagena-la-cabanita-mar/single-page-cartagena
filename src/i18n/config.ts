@@ -24,6 +24,7 @@ import esIslands from "@/i18n/es/islands.json";
 import esShopping from "@/i18n/es/shopping.json";
 import esEmergency from "@/i18n/es/emergency.json";
 import esInventory from "@/i18n/es/inventory.json";
+import esComeBack from "@/i18n/es/comeBack.json";
 
 import enTranslation from "@/i18n/en/translation.json";
 import enCommon from "@/i18n/en/common.json";
@@ -47,6 +48,7 @@ import enIslands from "@/i18n/en/islands.json";
 import enShopping from "@/i18n/en/shopping.json";
 import enEmergency from "@/i18n/en/emergency.json";
 import enInventory from "@/i18n/en/inventory.json";
+import enComeBack from "@/i18n/en/comeBack.json";
 
 import frTranslation from "@/i18n/fr/translation.json";
 import frCommon from "@/i18n/fr/common.json";
@@ -70,6 +72,7 @@ import frIslands from "@/i18n/fr/islands.json";
 import frShopping from "@/i18n/fr/shopping.json";
 import frEmergency from "@/i18n/fr/emergency.json";
 import frInventory from "@/i18n/fr/inventory.json";
+import frComeBack from "@/i18n/fr/comeBack.json";
 
 import { Language } from "@/enums/language.enum";
 
@@ -96,6 +99,7 @@ const es = {
     shopping: esShopping,
     emergency: esEmergency,
     inventory: esInventory,
+    comeBack: esComeBack,
 };
 
 // `satisfies` makes the build fail when a language is missing a key that Spanish has.
@@ -122,6 +126,7 @@ const en = {
     shopping: enShopping,
     emergency: enEmergency,
     inventory: enInventory,
+    comeBack: enComeBack,
 } satisfies typeof es;
 
 const fr = {
@@ -147,6 +152,7 @@ const fr = {
     shopping: frShopping,
     emergency: frEmergency,
     inventory: frInventory,
+    comeBack: frComeBack,
 } satisfies typeof es;
 
 void i18n
