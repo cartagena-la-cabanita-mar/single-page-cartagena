@@ -1,0 +1,29 @@
+{
+    "lead": "Cartagena is a true paradise for shopping lovers. From elegant malls to colorful craft markets, the city offers options for all tastes and budgets.",
+    "serrezuela": {
+        "title": "La Serrezuela mall",
+        "text": "For a modern and cultural experience, visit La Serrezuela, a former bullring turned into a mall with exclusive boutiques, luxury dining, and spectacular views, located in the historic center."
+    },
+    "crafts": {
+        "title": "Crafts",
+        "text": "If you’re looking for authentic souvenirs, you’ll find many shops in the historic center and Getsemaní.",
+        "historicTitle": "In the historic center",
+        "bovedas": "Las Bóvedas de Santa Clara, a series of shops in the historic wall selling crafts like bags, vueltiao hats, hammocks, ceramics, and jewelry.",
+        "sanDiego": "Plaza de San Diego: from 5pm, craft vendors set up.",
+        "serrezuela": "La Serrezuela mall offers premium and luxury shops.",
+        "walk": "Walk the streets to find many shops.",
+        "getsemaniTitle": "In Getsemaní",
+        "getsemaniMall": "Centro comercial Getsemaní: various shops with bags, jewelry, and other crafts."
+    },
+    "tips": {
+        "title": "Useful tips",
+        "cash": "Bring cash in Colombian pesos, especially for local markets.",
+        "street": "Avoid buying on the street to ensure quality and authenticity.",
+        "belongings": "Protect your belongings in crowded places.",
+        "emeralds": "If buying emeralds or jewelry, look for certified shops."
+    },
+    "malls": {
+        "title": "Malls",
+        "text": "In Plaza Bocagrande and Caribe Plaza, you’ll find national and international brands, restaurants, and entertainment."
+    }
+}
