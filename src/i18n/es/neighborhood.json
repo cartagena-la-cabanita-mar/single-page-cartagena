@@ -1,0 +1,36 @@
+{
+    "walkTitle": "Caminando desde el apartamento",
+    "supermarkets": {
+        "title": "Supermercados",
+        "text": "Hay 5 tiendas a menos de 10 min caminando, ubicadas sobre la calle 70."
+    },
+    "restaurants": {
+        "title": "Restaurantes",
+        "laPescaderia": "Pescado, mariscos y ceviches",
+        "atrium": "Hamburguesas, perros, pizzas, desgranados, postres",
+        "delivery": "Domicilio",
+        "benditoFrito": "Fritos típicos"
+    },
+    "bakery": "Panadería",
+    "more": "Farmacias, alquiler de carro y otra cantidad de negocios se encuentran en la calle 70.",
+    "atms": {
+        "title": "Cajeros",
+        "text": "En el aeropuerto, a 5 min caminando, se encuentran cajeros de varios bancos. Otros cajeros están ubicados también sobre la calle 70."
+    },
+    "beaches": {
+        "title": "Playas",
+        "crespo": {
+            "title": "Playas de Crespo",
+            "text": "Quedan abajo del edificio, con acceso directo.",
+            "swim": "Se prohíbe bañarse, pero está autorizado estar en la playa.",
+            "park": "Está el Parque Lineal de Crespo abajo del edificio, con cicloruta.",
+            "badge": "No se permite bañarse"
+        },
+        "marbella": {
+            "title": "Playas de Marbella",
+            "text": "Son las playas más cercanas donde se autoriza bañarse.",
+            "walk": "Quedan a 15 min caminando por la playa.",
+            "badge": "Se puede bañar"
+        }
+    }
+}
