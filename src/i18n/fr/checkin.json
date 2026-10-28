@@ -1,0 +1,14 @@
+{
+    "lobby": {
+        "title": "Enregistrement à la réception",
+        "p1": "À votre arrivée, présentez-vous à la réception principale avec votre pièce d’identité pour vous enregistrer.",
+        "p2": "Chaque visiteur préalablement enregistré recevra un bracelet pour la durée du séjour.",
+        "p3": "Ce bracelet sera coupé lors du check-out."
+    },
+    "door": {
+        "title": "Entrée dans l’appartement",
+        "text": "Touchez l’écran de la serrure intelligente pour faire apparaître le clavier et saisissez le code reçu précédemment.",
+        "tap": "Toucher l’écran",
+        "enter": "Entrer le code"
+    }
+}
