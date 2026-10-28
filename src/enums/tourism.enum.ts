@@ -1,0 +1,17 @@
+export enum PlaceId {
+    WalledCity = "walledCity",
+    SantoDomingo = "santoDomingo",
+    PlazaBolivar = "plazaBolivar",
+    SanPedroClaver = "sanPedroClaver",
+    ClockTower = "clockTower",
+    Cathedral = "cathedral",
+    HerediaTheater = "herediaTheater",
+    Sunset = "sunset",
+    Bovedas = "bovedas",
+    IndiaCatalina = "indiaCatalina",
+    CallejonEstribos = "callejonEstribos",
+    Getsemani = "getsemani",
+    SanFelipe = "sanFelipe",
+    LaPopa = "laPopa",
+    Rosario = "rosario",
+}
