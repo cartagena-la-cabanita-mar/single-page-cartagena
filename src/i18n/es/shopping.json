@@ -1,0 +1,29 @@
+{
+    "lead": "Cartagena es un verdadero paraíso para los amantes de las compras. Desde elegantes centros comerciales hasta coloridos mercados artesanales, la ciudad ofrece opciones para todos los gustos y presupuestos.",
+    "serrezuela": {
+        "title": "Centro comercial La Serrezuela",
+        "text": "Para una experiencia moderna y cultural, visita La Serrezuela, una antigua plaza de toros convertida en centro comercial con boutiques exclusivas, gastronomía de lujo y vistas espectaculares, ubicado en el centro histórico."
+    },
+    "crafts": {
+        "title": "Artesanías",
+        "text": "Si buscas recuerdos auténticos, encontrarás muchos locales en el centro histórico y en Getsemaní.",
+        "historicTitle": "En el centro histórico",
+        "bovedas": "Las Bóvedas de Santa Clara, una serie de locales ubicados en la muralla histórica, donde se venden artesanías como mochilas, sombreros vueltiaos, hamacas, cerámicas y joyería.",
+        "sanDiego": "La plaza de San Diego: a partir de las 5pm se instalan vendedores de artesanías.",
+        "serrezuela": "El centro comercial La Serrezuela ofrece locales premium y de lujo.",
+        "walk": "Caminar sus calles para encontrar muchos locales.",
+        "getsemaniTitle": "En Getsemaní",
+        "getsemaniMall": "Centro comercial Getsemaní: encontrarás varios locales de mochilas, joyería y otro tipo de artesanías."
+    },
+    "tips": {
+        "title": "Consejos útiles",
+        "cash": "Lleva efectivo en pesos colombianos, especialmente en mercados locales.",
+        "street": "Evita comprar en la calle para garantizar calidad y autenticidad.",
+        "belongings": "Protege tus pertenencias en lugares concurridos.",
+        "emeralds": "Si compras esmeraldas o joyas, busca tiendas certificadas."
+    },
+    "malls": {
+        "title": "Centros comerciales",
+        "text": "En Plaza Bocagrande y Caribe Plaza, encontrarás marcas nacionales e internacionales, además de restaurantes y entretenimiento."
+    }
+}
