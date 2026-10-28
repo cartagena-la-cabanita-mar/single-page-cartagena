@@ -9,6 +9,8 @@ import { decryptWifiPassword } from "@/utils/wifiVault.util";
 
 const CODE_LENGTH = 4;
 const SHAKE_OFFSETS = [0, -10, 10, -8, 8, -4, 0];
+/** The padlock opens first; the password appears a moment later so the guest sees the shackle swing. */
+const REVEAL_DELAY_SECONDS = 0.6;
 
 /** The Wi-Fi password behind a padlock: it only shows up when the guest types the 4-digit access code. */
 export default function WifiPasswordUI() {
@@ -17,6 +19,7 @@ export default function WifiPasswordUI() {
     const [password, setPassword] = useState<string>();
     const [hasError, setHasError] = useState(false);
     const [isChecking, setIsChecking] = useState(false);
+    const isUnlocked = password !== undefined;
 
     async function tryUnlock(attempt: string) {
         if (!WIFI_VAULT) {
@@ -55,45 +58,46 @@ export default function WifiPasswordUI() {
 
             {!WIFI_VAULT && <p className="mt-2 text-ink/70">{t("unavailable")}</p>}
 
-            {WIFI_VAULT && password !== undefined && (
-                <motion.div
-                    className="flex flex-wrap items-center justify-between gap-x-6 gap-y-2"
-                    initial={{ opacity: 0, y: 8 }}
-                    animate={{ opacity: 1, y: 0 }}
-                >
-                    <div className="flex items-center gap-3">
-                        <PadlockUI isOpen />
-                        <p className="font-display text-3xl font-bold break-all text-sea-900 sm:text-4xl">{password}</p>
-                    </div>
-                    <CopyButtonUI value={password} isOnDark={false} />
-                </motion.div>
-            )}
-
-            {WIFI_VAULT && password === undefined && (
+            {WIFI_VAULT && (
                 <motion.div
                     className="mt-2 flex flex-wrap items-center gap-4"
                     animate={hasError ? { x: SHAKE_OFFSETS } : { x: 0 }}
                     transition={{ duration: 0.45 }}
                 >
-                    <PadlockUI isOpen={false} />
-                    <div>
-                        <input
-                            type="text"
-                            inputMode="numeric"
-                            autoComplete="one-time-code"
-                            maxLength={CODE_LENGTH}
-                            value={code}
-                            onChange={handleChange}
-                            disabled={isChecking}
-                            aria-label={t("codeLabel")}
-                            aria-invalid={hasError}
-                            placeholder="••••"
-                            className="w-40 rounded-2xl border-2 border-sea-200 bg-sea-50 px-4 py-2 text-center font-display text-3xl tracking-[0.35em] text-sea-900 focus:border-sea-500 aria-invalid:border-error"
-                        />
-                        <p className="mt-2 text-sm text-ink/75" aria-live="polite">
-                            {hasError ? t("wrongCode") : isChecking ? t("checking") : t("locked")}
-                        </p>
-                    </div>
+                    <PadlockUI isOpen={isUnlocked} />
+
+                    {isUnlocked ? (
+                        <motion.div
+                            className="flex flex-wrap items-center gap-x-6 gap-y-2"
+                            initial={{ opacity: 0, y: 8 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ delay: REVEAL_DELAY_SECONDS }}
+                        >
+                            <p className="font-display text-3xl font-bold break-all text-sea-900 sm:text-4xl">
+                                {password}
+                            </p>
+                            <CopyButtonUI value={password} isOnDark={false} />
+                        </motion.div>
+                    ) : (
+                        <div>
+                            <input
+                                type="text"
+                                inputMode="numeric"
+                                autoComplete="one-time-code"
+                                maxLength={CODE_LENGTH}
+                                value={code}
+                                onChange={handleChange}
+                                disabled={isChecking}
+                                aria-label={t("codeLabel")}
+                                aria-invalid={hasError}
+                                placeholder="••••"
+                                className="w-40 rounded-2xl border-2 border-sea-200 bg-sea-50 px-4 py-2 text-center font-display text-3xl tracking-[0.35em] text-sea-900 focus:border-sea-500 aria-invalid:border-error"
+                            />
+                            <p className="mt-2 text-sm text-ink/75" aria-live="polite">
+                                {hasError ? t("wrongCode") : isChecking ? t("checking") : t("locked")}
+                            </p>
+                        </div>
+                    )}
                 </motion.div>
             )}
         </div>
