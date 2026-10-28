@@ -1,0 +1,19 @@
+{
+    "lead": "A table for every moment of the day: from fish by the sea to a cocktail on the wall.",
+    "zones": {
+        "historic": "Historic center",
+        "getsemani": "Getsemaní",
+        "crespo": "Crespo",
+        "bocagrande": "Bocagrande"
+    },
+    "brunch": "Brunch",
+    "bars": "Bars",
+    "restaurants": "Restaurants",
+    "walkFromHere": "5 min walking from the apartment",
+    "notes": {
+        "botika": "Rooftop of the Sofitel Santa Clara hotel",
+        "fidel": "Salsa club",
+        "baluarte": "On the wall, facing the sea",
+        "sevenSkies": "Rooftop gastrobar"
+    }
+}
