@@ -1,0 +1,29 @@
+{
+    "lead": "Cartagena est un véritable paradis pour les amateurs de shopping. Des centres commerciaux élégants aux marchés artisanaux colorés, la ville offre des options pour tous les goûts et tous les budgets.",
+    "serrezuela": {
+        "title": "Centre commercial La Serrezuela",
+        "text": "Pour une expérience moderne et culturelle, visitez La Serrezuela, une ancienne arène de corrida transformée en centre commercial avec des boutiques exclusives, une gastronomie de luxe et une vue spectaculaire, situé dans le centre historique."
+    },
+    "crafts": {
+        "title": "Artisanat",
+        "text": "Si vous cherchez des souvenirs authentiques, vous trouverez de nombreux magasins dans le centre historique et à Getsemaní.",
+        "historicTitle": "Dans le centre historique",
+        "bovedas": "Las Bóvedas de Santa Clara, une série de boutiques situées dans la ville fortifiée, où l’on vend des objets artisanaux comme des sacs, des chapeaux « vueltiaos », des hamacs, de la céramique et des bijoux.",
+        "sanDiego": "La plaza de San Diego : à partir de 17h, des vendeurs d’artisanat s’installent sur la place.",
+        "serrezuela": "Le centre commercial La Serrezuela propose des boutiques premium et de luxe.",
+        "walk": "Flânez dans les rues pour découvrir de nombreux magasins.",
+        "getsemaniTitle": "À Getsemaní",
+        "getsemaniMall": "Centre commercial Getsemaní : vous y trouverez un grand choix de boutiques de sacs, de bijoux et d’autres types d’artisanat."
+    },
+    "tips": {
+        "title": "Conseils pratiques",
+        "cash": "Prévoyez de l’argent liquide en pesos colombiens, surtout pour les marchés locaux.",
+        "street": "Évitez d’acheter dans la rue pour garantir la qualité et l’authenticité.",
+        "belongings": "Protégez vos effets personnels dans les lieux très fréquentés.",
+        "emeralds": "Si vous achetez des émeraudes ou des bijoux, privilégiez les boutiques certifiées."
+    },
+    "malls": {
+        "title": "Centres commerciaux",
+        "text": "Dans les centres commerciaux Plaza Bocagrande et Caribe Plaza, vous trouverez des marques nationales et internationales, ainsi que des restaurants et des espaces de divertissement."
+    }
+}
