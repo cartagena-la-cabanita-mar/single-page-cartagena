@@ -1,0 +1,14 @@
+{
+    "lobby": {
+        "title": "Registration at the lobby",
+        "p1": "Upon arrival, please present yourself at the main lobby with your ID to register.",
+        "p2": "Each registered guest will receive a wristband for the duration of your stay.",
+        "p3": "This wristband will be cut off at the moment of check-out."
+    },
+    "door": {
+        "title": "Entry to the apartment",
+        "text": "Touch the smart lock screen so the keypad appears and enter the code you received previously.",
+        "tap": "Touch screen",
+        "enter": "Enter code"
+    }
+}
