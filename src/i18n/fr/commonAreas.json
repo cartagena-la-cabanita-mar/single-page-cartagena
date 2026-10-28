@@ -1,0 +1,16 @@
+{
+    "floor": "4e étage",
+    "closed": "Les parties communes (piscines, jacuzzi, sauna et hammam) sont fermées tous les mardis pour nettoyage et maintenance.",
+    "maintenance": "Maintenance",
+    "pool": {
+        "title": "Piscines",
+        "hours": "Il y a 2 piscines. Horaires d’ouverture : de 8h à 20h. Il est obligatoire d’utiliser une serviette sur les transats.",
+        "bags": "Il est interdit d’entrer dans la zone de piscines avec des valises et/ou sacs à dos. Vous pouvez utiliser le service de consigne à bagages de l’immeuble si besoin."
+    },
+    "jacuzzi": {
+        "title": "Jacuzzi",
+        "text": "Pour utiliser le jacuzzi, il est nécessaire de réserver en scannant le QR code situé au 4e étage."
+    },
+    "sauna": "Sauna",
+    "turkish": "Hammam"
+}
