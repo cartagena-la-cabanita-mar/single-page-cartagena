@@ -1,0 +1,9 @@
+{
+    "lead": "Mira cómo funciona cada aparato antes de usarlo.",
+    "videos": {
+        "airRemote": "Control del aire acondicionado",
+        "fanRemote": "Control del ventilador de techo",
+        "cooktop": "Placas de inducción",
+        "cooktopUnlock": "Placas de inducción: desbloqueo"
+    }
+}
