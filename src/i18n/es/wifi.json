@@ -1,5 +1,10 @@
 {
     "network": "Red",
     "password": "Contraseña",
-    "join": "Conéctate a esta red"
+    "join": "Conéctate a esta red",
+    "locked": "Escribe el código de 4 dígitos para ver la contraseña.",
+    "codeLabel": "Código de acceso",
+    "wrongCode": "Código incorrecto. Inténtalo de nuevo.",
+    "checking": "Comprobando…",
+    "unavailable": "La contraseña no está disponible por ahora."
 }
