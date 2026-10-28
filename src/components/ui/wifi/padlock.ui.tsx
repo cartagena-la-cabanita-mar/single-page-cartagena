@@ -4,10 +4,10 @@ interface PadlockUIProps {
     isOpen: boolean;
 }
 
-/** A lemon padlock: its shackle lifts and swings open when the right code is typed. */
+/** A lemon padlock: when the right code is typed its shackle lifts and swings wide open, and it stays open. */
 export default function PadlockUI({ isOpen }: PadlockUIProps) {
     return (
-        <svg viewBox="0 0 48 58" className="h-14 w-12 shrink-0 drop-shadow-md" aria-hidden="true">
+        <svg viewBox="0 0 48 58" className="h-14 w-12 shrink-0 overflow-visible drop-shadow-md" aria-hidden="true">
             <motion.path
                 d="M14 26V17a10 10 0 0 1 20 0v9"
                 fill="none"
@@ -16,8 +16,8 @@ export default function PadlockUI({ isOpen }: PadlockUIProps) {
                 className="stroke-sea-700"
                 style={{ originX: "34px", originY: "26px" }}
                 initial={false}
-                animate={{ y: isOpen ? -7 : 0, rotate: isOpen ? -32 : 0 }}
-                transition={{ type: "spring", stiffness: 220, damping: 14 }}
+                animate={{ y: isOpen ? -10 : 0, rotate: isOpen ? -55 : 0 }}
+                transition={{ type: "spring", stiffness: 160, damping: 11 }}
             />
             <rect
                 x={6}
