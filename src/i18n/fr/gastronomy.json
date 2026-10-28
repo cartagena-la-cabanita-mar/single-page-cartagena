@@ -1,0 +1,19 @@
+{
+    "lead": "Des tables pour tous les moments de la journée : du poisson face à la mer jusqu’à un cocktail sur les remparts.",
+    "zones": {
+        "historic": "Centre historique",
+        "getsemani": "Getsemaní",
+        "crespo": "Crespo",
+        "bocagrande": "Bocagrande"
+    },
+    "brunch": "Brunch",
+    "bars": "Bars",
+    "restaurants": "Restaurants",
+    "walkFromHere": "5 min à pied depuis l’appartement",
+    "notes": {
+        "botika": "Rooftop de l’hôtel Sofitel Santa Clara",
+        "fidel": "Club de salsa",
+        "baluarte": "Sur les remparts, face à la mer",
+        "sevenSkies": "Rooftop gastrobar"
+    }
+}
