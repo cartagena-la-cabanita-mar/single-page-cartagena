@@ -6,8 +6,6 @@
     "before": "Before leaving the apartment, please:",
     "tasks": {
         "off": "Turn off the air conditioner, fan, TV, and all lights",
-        "dishes": "Wash the dishes",
-        "trash": "Take out the trash to the dedicated trash chute next to the elevators",
         "window": "Close the window and blackout curtain"
     },
     "done": "All set. Thank you for taking care of our little house.",
