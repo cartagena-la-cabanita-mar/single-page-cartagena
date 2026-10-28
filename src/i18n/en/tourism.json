@@ -1,0 +1,81 @@
+{
+    "lead": "A tour of the places you can’t miss, from the city walls to the hills and the islands.",
+    "seeIslands": "See day trips to the islands",
+    "places": {
+        "walledCity": {
+            "title": "Walled City",
+            "teaser": "A UNESCO World Heritage Site, with colonial streets and very well-preserved architecture.",
+            "text": "The heart of the historic city, the Walled City is a UNESCO World Heritage Site. Stroll its colonial streets to admire its incredibly well-preserved architecture."
+        },
+        "santoDomingo": {
+            "title": "Plaza Santo Domingo",
+            "teaser": "The oldest church in Cartagena and Botero’s famous Gorda Gertrudis.",
+            "text": "One of the most famous squares in the city. Here is the oldest church in Cartagena, where you can visit the convent. The interior, with its white and ochre colors, is lively when bathed in light.\n\nThe famous sculpture by Fernando Botero, “La Gorda Gertrudis,” is here. Legend says touching her butt brings luck, touching her chest ensures a long love life, or promises you’ll return to Cartagena. The church museum can be visited and has the most important collection of religious art in Cartagena, with unique African and Afro-Caribbean works."
+        },
+        "plazaBolivar": {
+            "title": "Plaza Bolívar",
+            "teaser": "Formerly the Plaza of the Inquisition, with Mapalé dancers performing at sunset.",
+            "text": "Formerly the Plaza of the Inquisition, where the Catholic Church held executions and public punishments, renamed in the late 19th century in honor of Simón Bolívar. Numerous important monuments are here. At sunset, dancers perform the Mapalé, a traditional dance of Afro-descendant communities. A must-see!\n\nWe recommend visiting the Palace of the Inquisition at the Cartagena Historical Museum.\n\nIn Plaza Bolívar, visit the Museo del Oro Zenú (Zenú Gold Museum), a small museum in a beautiful colonial house with a collection of crafts and gold objects from the Zenú indigenous culture dating to pre-Hispanic times."
+        },
+        "sanPedroClaver": {
+            "title": "Plaza de San Pedro Claver",
+            "teaser": "Sculptures by Edgardo Carmona and the statue of San Pedro Claver.",
+            "text": "Here you’ll find contemporary sculptures by Edgardo Carmona, representing traditional trades and Caribbean life scenes.\n\nThere’s also a statue of priest San Pedro Claver with a slave, representing his role in freeing African slaves."
+        },
+        "clockTower": {
+            "title": "Clock Tower",
+            "teaser": "The most photographed monument, and the former gateway into the walled city.",
+            "text": "One of Cartagena’s symbols and most photographed monuments. Historically, it was the only entrance into the walled city.\n\nThe Clock Tower leads to Plaza de los Coches, formerly the slave market. Cartagena was the largest slave port in South America.\n\nToday, the Portal de los Dulces is here, with all kinds of traditional sweets vendors."
+        },
+        "cathedral": {
+            "title": "Cartagena Cathedral",
+            "teaser": "A vibrant yellow dome and a simple, elegant white interior.",
+            "text": "The Cathedral of Santa Catalina, in vibrant yellow, is another emblematic monument. Its colorful dome can be seen from different angles.\n\nThe interior is simple but elegant, with white columns and a wooden ceiling."
+        },
+        "herediaTheater": {
+            "title": "Heredia Theater",
+            "teaser": "An Italian-style theater from 1911, with balconies carved like lace.",
+            "text": "The Heredia Theater surprises with its beauty, pastel colors, and old letters. Built in 1911 to commemorate Cartagena’s independence, it’s considered one of Colombia’s most beautiful theaters. Inside, you’ll discover the splendor of an Italian-style theater with sublime decoration, balconies carved like lace, and marble staircases. You can visit during the week, but the best way is to attend a concert, such as during the famous Cartagena Classical Music Festival in December."
+        },
+        "sunset": {
+            "title": "Admire the sunsets from the wall",
+            "teaser": "A drink at El Baluarte de la Gente as the sky lights up.",
+            "text": "Admire the sunset walking on the imposing wall and having a drink at El Baluarte de la Gente. It’s a must, a classic among classics. When the sky lights up at sunset, Cartagena’s rooftops and Bocagrande’s buildings glow, creating a spectacular and unforgettable atmosphere."
+        },
+        "bovedas": {
+            "title": "Las Bóvedas de Santa Clara",
+            "teaser": "Former ammunition stores, now full of crafts.",
+            "text": "Former ammunition stores and prison cells, now home to many craft, antique, and typical local shops."
+        },
+        "indiaCatalina": {
+            "title": "India Catalina Monument",
+            "teaser": "A tribute to the interpreter of the conquest, and an ideal spot for photos.",
+            "text": "One of the city’s most representative symbols. This sculpture honors an indigenous woman who played a key role during the Spanish conquest, serving as an interpreter between the conquerors and native communities.\n\nLocated at a roundabout near the historic center, the statue stands out for its elegance and serenity. It’s ideal for photos and for learning about the city’s multicultural history."
+        },
+        "callejonEstribos": {
+            "title": "Callejón de los Estribos",
+            "teaser": "One of the most picturesque streets, next to the Santo Domingo Church.",
+            "text": "One of the most picturesque streets in the historic center. Originally called Nuestra Señora de la Luz, it was renamed after the construction of the buttresses that reinforce the Santo Domingo Church, built in 1559. These architectural elements were needed to stabilize the foundations of the church, and as the street narrowed, it became an alley. Today, this charming corner, full of history, connects Plaza Santo Domingo with the wall and offers a unique view of colonial architecture. It’s an ideal place to stroll, take photos, and enjoy the Cartagena atmosphere."
+        },
+        "getsemani": {
+            "title": "Getsemaní: Plaza de la Santísima Trinidad",
+            "teaser": "The square of the Cry of Independence, with vibrant nightlife.",
+            "text": "This square was formerly called Plaza de la Libertad, in honor of the Getsemaní residents who launched the “Cry of Independence” in 1811, part of the movements that led to the independence of what was then New Granada.\n\nToday, it’s one of the liveliest squares in Getsemaní, with vibrant nightlife."
+        },
+        "sanFelipe": {
+            "title": "Castillo de San Felipe de Barajas",
+            "teaser": "The largest fortification ever built in the Americas.",
+            "text": "One of Cartagena’s symbols, along with the old town walls, representing the largest fortification ever built in the Americas.\n\nA labyrinth of corridors and walkways, underground galleries, drawbridges, secret passages, and escape tunnels. Its hilltop location, overlooking the city, offers splendid views of the sea and Cartagena’s neighborhoods."
+        },
+        "laPopa": {
+            "title": "Cerro de la Popa",
+            "teaser": "The city’s highest hill, with a nearly 360° view.",
+            "text": "The city’s highest hill, 10 minutes from the historic center, offers a spectacular, almost 360° view of Cartagena. From the top you can see the Caribbean Sea, Tierra Bomba Island, the wall, downtown, La Boquilla, Bocagrande, and the entire north of the city.\n\nIt is said that the hill was a place of worship and ceremonies for indigenous peoples, and that for this reason the Spanish colonists and Augustinian priests built a church here to eradicate their pagan customs. The 17th-century convent has one of Colombia’s most beautiful cloisters."
+        },
+        "rosario": {
+            "title": "Excursion to the Rosario Islands",
+            "teaser": "An archipelago of more than 27 islands, about 45 minutes away by boat.",
+            "text": "The Rosario Islands are a paradisiacal archipelago about 45 minutes by boat from Cartagena."
+        }
+    }
+}
