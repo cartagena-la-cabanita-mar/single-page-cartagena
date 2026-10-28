@@ -1,0 +1,16 @@
+{
+    "floor": "Piso 4",
+    "closed": "Las zonas comunes están cerradas cada martes por mantenimiento.",
+    "maintenance": "Mantenimiento",
+    "pool": {
+        "title": "Piscina",
+        "hours": "Hay 2 piscinas. Horarios: de 8am a 8pm. El uso de toalla es obligatorio en las asoleadoras.",
+        "bags": "Está prohibido el ingreso a las piscinas con maletas y morrales (puede usar el servicio de guarda equipaje prestado por el edificio en caso de necesitarlo)."
+    },
+    "jacuzzi": {
+        "title": "Jacuzzi",
+        "text": "Para usar el jacuzzi, es necesario reservar el espacio escaneando el código QR que se encuentra en el piso 4."
+    },
+    "sauna": "Sauna",
+    "turkish": "Turco"
+}
